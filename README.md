@@ -18,7 +18,7 @@ This React app generates recipes using AI.
 ## Screenshots
 
 ### Homepage
-![Homepage Screenshot](./home.png.png)
+![Homepage Screenshot](./public/home.png.png)
 
 ### Recipe Example
-![Recipe Screenshot](./recipe.png.png)
+![Recipe Screenshot](./public/recipe.png.png)
